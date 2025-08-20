@@ -45,6 +45,3 @@ If you're getting started and need assistance or face any bugs, join our active 
 👉 **Cross-Device Compatibility**: Fully responsive design that works seamlessly across all devices.
 
 👉 **Modern UI/UX**: Clean, responsive design built with Tailwind CSS and shadcn/ui for a sleek user experience.
-
-
-  <img src="public/readme/jsmpro.webp" alt="Project Banner"></a>
